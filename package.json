@@ -1,7 +1,7 @@
 {
   "name": "file-service-for-share",
   "version": "0.0.4-beta.1",
-  "description": "Microservice that serves file like a file-service, but for share:// URIs",
+  "description": "Microservice that serves file based on the share:// URIs",
   "type": "module",
   "dependencies": {
   },
